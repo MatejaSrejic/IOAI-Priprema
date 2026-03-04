@@ -1,4 +1,4 @@
-# IOAI-Priprema2
+# IOAI-Priprema
 
 Ovaj repozitorijum sadrži materijale za pripremu za IOAI takmičenje.
 
